@@ -1,7 +1,6 @@
 # Programmieren lernen mit Python - Weiterführende Konzepte
 
-Dieses Projekt enthält die Codebeispiele aus dem iMooX Kurs 
-"Programmieren Lernen mit Python: Weiterführende Konzepte".
+Dieses Projekt enthält die Codebeispiele aus dem iMooX Kurs ["Programmieren Lernen mit Python: Weiterführende Konzepte"](https://imoox.at/course/pyadditional).
 
 ## Ordnerstruktur
 
